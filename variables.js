@@ -26,11 +26,11 @@ console.log(customerSeriviceAvaliable);
 var onlineOrder = false;
 console.log(onlineOrder);
 
-var email = "ashlee.webb.18@gmail.com";
+email = "ashlee.webb.18@gmail.com";
 console.log(email);
 
-var username = "ashwebb";
+username = "ashwebb";
 console.log(username);
 
-var imageName = "webb selfie";
+imageName = "webb selfie";
 console.log(imageName);
